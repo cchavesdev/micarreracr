@@ -1,0 +1,1004 @@
+[
+    {
+        "codigo": "110103",
+        "carrera": "BACHILLERATO Y LICENCIATURA EN ARTES TEATRALES",
+        "admision": "516,99",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110202",
+        "carrera": "BACH. Y LIC. EN HISTORIA DEL ARTE",
+        "admision": "727,94",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110213",
+        "carrera": "BACH. Y LIC. EN DISEÑO PLASTICO ENF. DISEÑO PICTOR",
+        "admision": "651,31",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110214",
+        "carrera": "BACH. Y LIC. EN DISEÑO GRAFICO",
+        "admision": "708,20",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110302",
+        "carrera": "BACH. Y LIC. EN MUSICA CON ENFASIS EN COMPOSICION",
+        "admision": "620,84",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110308",
+        "carrera": "BACH. Y LIC. EN MUSICA CON ENFASIS EN PIANO",
+        "admision": "616,55",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110309",
+        "carrera": "BACH. Y LIC. EN MUSICA CON ENFASIS EN GUITARRA",
+        "admision": "0",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110310",
+        "carrera": "BACH. Y LIC. EN MUSICA CON ENFASIS EN CANTO",
+        "admision": "594,53",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110311",
+        "carrera": "BACH. Y LIC. EN MUSICA ENF. INSTRUMENTOS DE CUERDA",
+        "admision": "0",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110312",
+        "carrera": "BACH. Y LIC. EN MUSICA ENF. INSTR. DE VIENTO O PER",
+        "admision": "534,10",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110313",
+        "carrera": "BACH. EN MUSICA CON ENFASIS EN DIRECCION",
+        "admision": "0",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110315",
+        "carrera": "LIC. EN MUSICA CON ENFASIS EN DIRECCION ORQUESTAL",
+        "admision": "0",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110322",
+        "carrera": "LIC. EN MUSICA ENF. ENSEÑANZA INSTRUMENTAL O VOCAL",
+        "admision": "0",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "120101",
+        "carrera": "BACH. Y LIC. EN FILOLOGIA ESPAÑOLA",
+        "admision": "493,31",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "120102",
+        "carrera": "BACH. Y LIC. EN FILOLOGIA CLASICA",
+        "admision": "633",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "120201",
+        "carrera": "BACH. Y LIC. EN FILOSOFIA",
+        "admision": "541,76",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "120303",
+        "carrera": "BACH. EN INGLES",
+        "admision": "447,82",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "120304",
+        "carrera": "BACH. EN FRANCES",
+        "admision": "543,16",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210101",
+        "carrera": "BACH. Y LIC. EN BIOLOGIA",
+        "admision": "647,16",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210201",
+        "carrera": "BACH. EN FISICA",
+        "admision": "562,82",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210202",
+        "carrera": "BACH. Y LIC. EN METEOROLOGIA",
+        "admision": "0",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210301",
+        "carrera": "BACH. Y LIC. EN GEOLOGIA",
+        "admision": "514,57",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210401",
+        "carrera": "BACH. Y LIC. EN MATEMATICAS",
+        "admision": "550,81",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210402",
+        "carrera": "BACH. Y LIC. EN CIENCIAS ACTUARIALES",
+        "admision": "745,54",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210403",
+        "carrera": "BACH. Y LIC. EN EDUCACION MATEMATICA",
+        "admision": "766,50",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "210501",
+        "carrera": "BACH. Y LIC. EN QUIMICA",
+        "admision": "515,34",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "310101",
+        "carrera": "BACH. Y LIC. EN DERECHO",
+        "admision": "703,92",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320208",
+        "carrera": "BACH. EN LA ENS. DEL INGLES",
+        "admision": "668,13",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320209",
+        "carrera": "BACH. EN LA ENS. DEL FRANCES",
+        "admision": "544,50",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320233",
+        "carrera": "BACH. EN LA ENS. DE LA FILOSOFIA",
+        "admision": "507,19",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320242",
+        "carrera": "BACH. Y LIC. EN EDUCACION PRIMARIA",
+        "admision": "644,23",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320243",
+        "carrera": "BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMATICA",
+        "admision": "613,76",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320244",
+        "carrera": "BACH. ENS. EST. SOC. Y LIC. ENS EST SOC. Y ED. CIV",
+        "admision": "597,87",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320246",
+        "carrera": "BACH. Y LIC. ENSEÑANZA DE LA MUSICA",
+        "admision": "620,82",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320251",
+        "carrera": "BACH. Y LIC. EN LA ENS. DEL CASTELLANO Y LITERATUR",
+        "admision": "730,53",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320257",
+        "carrera": "BACH. EDUC. PREESCOLAR Y LIC. EDUC. PREESCOLAR ENF",
+        "admision": "699,31",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320259",
+        "carrera": "BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES",
+        "admision": "662,50",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320311",
+        "carrera": "BACH. Y LIC. CS. DE LA EDUCACION ENF. ORIENTACION",
+        "admision": "567,49",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320317",
+        "carrera": "BACH. EN CS. DE LA EDUCACIÓN: EDUCACIÓN ESPECIAL",
+        "admision": "569,59",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320401",
+        "carrera": "BACH.EN BIBLIOTECOLOGIA ENF.CS. DE LA INFORMACION",
+        "admision": "0",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320402",
+        "carrera": "BACH.EN BIBLIOTECOLOGIA ENF.BIBLIOTECAS EDUCATIVAS",
+        "admision": "462,02",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "320508",
+        "carrera": "BACH. Y LIC. EN CIENCIAS DEL MOVIMIENTO HUMANO",
+        "admision": "698,35",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "330102",
+        "carrera": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+        "admision": "582,43",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "330103",
+        "carrera": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+        "admision": "502,25",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "330212",
+        "carrera": "DIPL. ADM. ADUANERA. BACH. ADM. ADUANERA COM. EXT",
+        "admision": "605,62",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "330213",
+        "carrera": "DIPL. Y BACH. EN ADM. PUBLICA Y LIC. EN ADM. PUBLI",
+        "admision": "515,10",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "330302",
+        "carrera": "BACH. EN ECONOMIA",
+        "admision": "561,14",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "330402",
+        "carrera": "BACH. EN ESTADISTICA",
+        "admision": "619,21",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340105",
+        "carrera": "BACH. CS. COMUNIC. COLECT. LIC. EN CS. COMUNIC. EN",
+        "admision": "675,30",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340201",
+        "carrera": "BACH.Y LIC.EN PSICOLOGIA",
+        "admision": "690,95",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340301",
+        "carrera": "BACH.Y LIC.EN CIENCIAS POLITICAS",
+        "admision": "483,08",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340501",
+        "carrera": "BACH.Y LIC.EN TRABAJO SOCIAL",
+        "admision": "494,41",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340701",
+        "carrera": "BACH. Y LIC. EN HISTORIA",
+        "admision": "456,88",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340703",
+        "carrera": "BACHILLERATO Y LICENCIATURA EN ARCHIVISTICA",
+        "admision": "491,76",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340801",
+        "carrera": "BACH. Y LIC. EN GEOGRAFIA",
+        "admision": "511,62",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "340902",
+        "carrera": "BACHILLERATO EN ANTROPOLOGIA",
+        "admision": "504,32",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "341001",
+        "carrera": "BACH. Y LIC. EN SOCIOLOGIA",
+        "admision": "483,83",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420101",
+        "carrera": "LIC.EN INGENIERIA CIVIL",
+        "admision": "647,64",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420201",
+        "carrera": "BACH.Y LIC.EN INGENIERIA ELECTRICA",
+        "admision": "666,39",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420302",
+        "carrera": "LIC.EN INGENIERIA INDUSTRIAL",
+        "admision": "737,05",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420401",
+        "carrera": "BACH.Y LIC.EN INGENIERIA MECANICA",
+        "admision": "692",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420501",
+        "carrera": "LIC.EN INGENIERIA QUIMICA",
+        "admision": "659,94",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420601",
+        "carrera": "LIC.EN ARQUITECTURA",
+        "admision": "670,68",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420705",
+        "carrera": "BACH. EN COMPUTACION CON VARIOS ENFASIS",
+        "admision": "699,99",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420805",
+        "carrera": "LIC. EN INGENIERIA  AGRICOLA Y DE BIOSISTEMAS",
+        "admision": "500,80",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "420904",
+        "carrera": "BACH. Y LIC. EN INGENIERIA TOPOGRAFICA",
+        "admision": "504,54",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510109",
+        "carrera": "LICENCIATURA EN ENFERMERIA",
+        "admision": "649,52",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510201",
+        "carrera": "BACH. EN CS. MEDICAS Y LIC. EN MEDICINA Y CIRUGIA",
+        "admision": "775,90",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510301",
+        "carrera": "LICENCIATURA EN NUTRICION",
+        "admision": "759,56",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510407",
+        "carrera": "BACH. Y LIC. EN TERAPIA FISICA",
+        "admision": "658,21",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510408",
+        "carrera": "BACH. Y LIC. EN SALUD AMBIENTAL",
+        "admision": "615,18",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510418",
+        "carrera": "LIC. EN AUDIOLOGIA",
+        "admision": "641,48",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510419",
+        "carrera": "BACH. Y LIC. EN ORTOPROTESIS Y ORTOPEDIA",
+        "admision": "700,91",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510421",
+        "carrera": "BACH. Y LIC. EN IMAG. DIAGNÓSTICA Y TERAPÉUTICA",
+        "admision": "731,46",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "510502",
+        "carrera": "BACH. Y LIC. EN PROMOCIÓN DE LA SALUD",
+        "admision": "568,12",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "520101",
+        "carrera": "LIC. EN ODONTOLOGIA",
+        "admision": "691,29",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "530101",
+        "carrera": "LIC. EN MICROBIOLOGIA Y QUIMICA CLINICA",
+        "admision": "761,15",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "530102",
+        "carrera": "DIP. EN ASISTENTE DE LABORATORIO",
+        "admision": "674,63",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "540101",
+        "carrera": "LIC. EN FARMACIA",
+        "admision": "697,59",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "910102",
+        "carrera": "BACH. Y LIC. EN AGRONOMIA",
+        "admision": "525,65",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "910203",
+        "carrera": "BACH. Y LIC. EN INGENIERIA AGRONOMICA EN ZOOTECNIA",
+        "admision": "513,27",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "910308",
+        "carrera": "BACHILLERATO EN ECONOMIA AGRICOLA Y AGRONEGOCIOS",
+        "admision": "504,22",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "910402",
+        "carrera": "LICENCIATURA EN INGENIERIA DE ALIMENTOS",
+        "admision": "689,92",
+        "recinto": "CIUDAD UNIVERSITARIA RODRIGO FACIO"
+    },
+    {
+        "codigo": "110213",
+        "carrera": "BACH. Y LIC. EN DISEÑO PLASTICO ENF. DISEÑO PICTOR",
+        "admision": "580,84",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "110214",
+        "carrera": "BACH. Y LIC. EN DISEÑO GRAFICO",
+        "admision": "648,13",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "310101",
+        "carrera": "BACH. Y LIC. EN DERECHO",
+        "admision": "707,84",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "320243",
+        "carrera": "BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMATICA",
+        "admision": "597,32",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "320246",
+        "carrera": "BACH. Y LIC. ENSEÑANZA DE LA MUSICA",
+        "admision": "462",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "330102",
+        "carrera": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+        "admision": "664,99",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "340201",
+        "carrera": "BACH.Y LIC.EN PSICOLOGIA",
+        "admision": "643,96",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "420302",
+        "carrera": "LIC.EN INGENIERIA INDUSTRIAL",
+        "admision": "673,38",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "714,04",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600110",
+        "carrera": "BACH. EN LA ENS. DEL CASTELLANO Y LITERATURA",
+        "admision": "613,33",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600113",
+        "carrera": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+        "admision": "641,72",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600119",
+        "carrera": "BACH. Y LIC. EN TRABAJO SOCIAL",
+        "admision": "599,06",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600123",
+        "carrera": "BACH. EN GESTION DE LOS RECURSOS NATURALES",
+        "admision": "619,18",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600125",
+        "carrera": "BACH.EN LA ENS. ESTUDIOS SOCIALES Y LA EDUC. CIVIC",
+        "admision": "603,35",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600133",
+        "carrera": "BACHILLERATO EN EDUCACION PRIMARIA",
+        "admision": "606,15",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600134",
+        "carrera": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+        "admision": "649,67",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600135",
+        "carrera": "BACHILLERATO EN EDUCACION INICIAL EN INGLES",
+        "admision": "506,29",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "600136",
+        "carrera": "BACHILLERATO Y LICENCIATURA EN EDUCACION INICIAL",
+        "admision": "634,75",
+        "recinto": "RECINTO DE SAN RAMON"
+    },
+    {
+        "codigo": "320259",
+        "carrera": "BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES",
+        "admision": "474,51",
+        "recinto": "RECINTO DE GRECIA"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "685,34",
+        "recinto": "RECINTO DE GRECIA"
+    },
+    {
+        "codigo": "600119",
+        "carrera": "BACH. Y LIC. EN TRABAJO SOCIAL",
+        "admision": "573,71",
+        "recinto": "RECINTO DE GRECIA"
+    },
+    {
+        "codigo": "600126",
+        "carrera": "BACH. Y LIC. EN LABORATORISTA QUIMICO",
+        "admision": "633,38",
+        "recinto": "RECINTO DE GRECIA"
+    },
+    {
+        "codigo": "600127",
+        "carrera": "BACH. EN GESTIÓN INTEGRAL DEL RECURSO HÍDRICO",
+        "admision": "0",
+        "recinto": "RECINTO DE GRECIA"
+    },
+    {
+        "codigo": "600130",
+        "carrera": "BACHILLERATO EN MODELACIÓN MATEMÁTICA",
+        "admision": "647,29",
+        "recinto": "RECINTO DE GRECIA"
+    },
+    {
+        "codigo": "600307",
+        "carrera": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+        "admision": "512,21",
+        "recinto": "RECINTO DE GRECIA"
+    },
+    {
+        "codigo": "110214",
+        "carrera": "BACH. Y LIC. EN DISEÑO GRAFICO",
+        "admision": "597,57",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "320246",
+        "carrera": "BACH. Y LIC. ENSEÑANZA DE LA MUSICA",
+        "admision": "568,56",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "320508",
+        "carrera": "BACH. Y LIC. EN CIENCIAS DEL MOVIMIENTO HUMANO",
+        "admision": "548,36",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "330103",
+        "carrera": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+        "admision": "640,22",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "637,19",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "600113",
+        "carrera": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+        "admision": "638,35",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "600209",
+        "carrera": "LIC. EN INGENIERIA EN DESARROLLO SOSTENIBLE",
+        "admision": "521,76",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "910102",
+        "carrera": "BACH. Y LIC. EN AGRONOMIA",
+        "admision": "590,40",
+        "recinto": "RECINTO DE TURRIALBA"
+    },
+    {
+        "codigo": "320243",
+        "carrera": "BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMATICA",
+        "admision": "457,13",
+        "recinto": "RECINTO DE PARAISO"
+    },
+    {
+        "codigo": "330102",
+        "carrera": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+        "admision": "578,58",
+        "recinto": "RECINTO DE PARAISO"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "627,31",
+        "recinto": "RECINTO DE PARAISO"
+    },
+    {
+        "codigo": "600113",
+        "carrera": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+        "admision": "592,67",
+        "recinto": "RECINTO DE PARAISO"
+    },
+    {
+        "codigo": "600307",
+        "carrera": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+        "admision": "642,80",
+        "recinto": "RECINTO DE PARAISO"
+    },
+    {
+        "codigo": "330103",
+        "carrera": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+        "admision": "601,26",
+        "recinto": "RECINTO DE GUAPILES"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "636,80",
+        "recinto": "RECINTO DE GUAPILES"
+    },
+    {
+        "codigo": "600134",
+        "carrera": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+        "admision": "512,67",
+        "recinto": "RECINTO DE GUAPILES"
+    },
+    {
+        "codigo": "910308",
+        "carrera": "BACHILLERATO EN ECONOMIA AGRICOLA Y AGRONEGOCIOS",
+        "admision": "484,32",
+        "recinto": "RECINTO DE GUAPILES"
+    },
+    {
+        "codigo": "120303",
+        "carrera": "BACH. EN INGLES",
+        "admision": "540,64",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "310101",
+        "carrera": "BACH. Y LIC. EN DERECHO",
+        "admision": "657,14",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "330102",
+        "carrera": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+        "admision": "584,13",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "330212",
+        "carrera": "DIPL. ADM. ADUANERA. BACH. ADM. ADUANERA COM. EXT",
+        "admision": "504,38",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "340201",
+        "carrera": "BACH.Y LIC.EN PSICOLOGIA",
+        "admision": "599,71",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "420101",
+        "carrera": "LIC.EN INGENIERIA CIVIL",
+        "admision": "717,17",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "420201",
+        "carrera": "BACH.Y LIC.EN INGENIERIA ELECTRICA",
+        "admision": "489,37",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "510408",
+        "carrera": "BACH. Y LIC. EN SALUD AMBIENTAL",
+        "admision": "435,61",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "526,80",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "600133",
+        "carrera": "BACHILLERATO EN EDUCACION PRIMARIA",
+        "admision": "610,77",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "600134",
+        "carrera": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+        "admision": "510,32",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "600307",
+        "carrera": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+        "admision": "479,33",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "600308",
+        "carrera": "BACH  Y LIC EN EDUC. DE PRIMERA INFAN. ÉNF. INGLES",
+        "admision": "553,51",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "910102",
+        "carrera": "BACH. Y LIC. EN AGRONOMIA",
+        "admision": "474,63",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "910402",
+        "carrera": "LICENCIATURA EN INGENIERIA DE ALIMENTOS",
+        "admision": "659,16",
+        "recinto": "RECINTO DE LIBERIA"
+    },
+    {
+        "codigo": "120303",
+        "carrera": "BACH. EN INGLES",
+        "admision": "557,94",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "330102",
+        "carrera": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+        "admision": "546,96",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "330103",
+        "carrera": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+        "admision": "512,13",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "330212",
+        "carrera": "DIPL. ADM. ADUANERA. BACH. ADM. ADUANERA COM. EXT",
+        "admision": "565,62",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "420501",
+        "carrera": "LIC.EN INGENIERIA QUIMICA",
+        "admision": "591,40",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "512,86",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "600004",
+        "carrera": "LIC.ING.MARÍTIMAÉNF.NAÚTICAYTRANSP.MAR.YENMÁQ.MAR",
+        "admision": "0",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "600113",
+        "carrera": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+        "admision": "527,84",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "600135",
+        "carrera": "BACHILLERATO EN EDUCACION INICIAL EN INGLES",
+        "admision": "479,92",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "600307",
+        "carrera": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+        "admision": "513,73",
+        "recinto": "RECINTO DE LIMON"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "580,03",
+        "recinto": "RECINTO SIQUIRRES"
+    },
+    {
+        "codigo": "320208",
+        "carrera": "BACH. EN LA ENS. DEL INGLES",
+        "admision": "528,35",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "330102",
+        "carrera": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+        "admision": "517,18",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "420201",
+        "carrera": "BACH.Y LIC.EN INGENIERIA ELECTRICA",
+        "admision": "532,77",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "546,62",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "600502",
+        "carrera": "BACH. Y LIC. EN INFORMATICA Y TECNOLOGIA MULTIMEDI",
+        "admision": "405,59",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "600503",
+        "carrera": "BACH. Y LIC. EN INGLES CON FORMACION EN GESTION EM",
+        "admision": "520,17",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "600504",
+        "carrera": "LIC. EN INGENIERIA ELECTROMECANICA INDUSTRIAL",
+        "admision": "526,62",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "600505",
+        "carrera": "BACH. EN GESTION CULTURAL",
+        "admision": "658,22",
+        "recinto": "RECINTO DE PUNTARENAS"
+    },
+    {
+        "codigo": "210403",
+        "carrera": "BACH. Y LIC. EN EDUCACION MATEMATICA",
+        "admision": "0",
+        "recinto": "RECINTO DE GOLFITO"
+    },
+    {
+        "codigo": "320259",
+        "carrera": "BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES",
+        "admision": "570,43",
+        "recinto": "RECINTO DE GOLFITO"
+    },
+    {
+        "codigo": "600002",
+        "carrera": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+        "admision": "586,53",
+        "recinto": "RECINTO DE GOLFITO"
+    },
+    {
+        "codigo": "600134",
+        "carrera": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+        "admision": "514,84",
+        "recinto": "RECINTO DE GOLFITO"
+    },
+    {
+        "codigo": "600307",
+        "carrera": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+        "admision": "0",
+        "recinto": "RECINTO DE GOLFITO"
+    },
+    {
+        "codigo": "110214",
+        "carrera": "BACH. Y LIC. EN DISEÑO GRAFICO",
+        "admision": "517,76",
+        "recinto": "RECINTO ALAJUELA"
+    },
+    {
+        "codigo": "420302",
+        "carrera": "LIC.EN INGENIERIA INDUSTRIAL",
+        "admision": "626,20",
+        "recinto": "RECINTO ALAJUELA"
+    },
+    {
+        "codigo": "420404",
+        "carrera": "LIC. ING. MECANICA ENF. PROTECC. CONTRA INCENDIOS",
+        "admision": "523,39",
+        "recinto": "RECINTO ALAJUELA"
+    }
+]

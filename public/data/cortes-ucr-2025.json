@@ -1,0 +1,1581 @@
+{
+  "año": 2025,
+  "fechaPublicacion": "2025-01-17",
+  "universidad": "Universidad de Costa Rica",
+  "notaMaxima": 800,
+  "notaMinima": 200,
+  "fuente": "Oficina de Registro e Información - UCR",
+  "urlOficial": "https://ori.ucr.ac.cr/",
+  "calculoPromedio": {
+    "secundaria": "50%",
+    "paa": "50%",
+    "descripcion": "Promedio de Admisión = (Promedio Secundaria Décimo Año × 50%) + (PAA × 50%)"
+  },
+  "sedes": [
+    {
+      "codigo": "11",
+      "nombre": "Ciudad Universitaria Rodrigo Facio",
+      "ubicacion": "San Pedro, Montes de Oca"
+    },
+    {
+      "codigo": "21",
+      "nombre": "Recinto de San Ramón",
+      "ubicacion": "San Ramón, Alajuela"
+    },
+    {
+      "codigo": "22",
+      "nombre": "Recinto de Grecia",
+      "ubicacion": "Grecia, Alajuela"
+    },
+    {
+      "codigo": "31",
+      "nombre": "Recinto de Turrialba",
+      "ubicacion": "Turrialba, Cartago"
+    },
+    {
+      "codigo": "32",
+      "nombre": "Recinto de Paraíso",
+      "ubicacion": "Paraíso, Cartago"
+    },
+    {
+      "codigo": "33",
+      "nombre": "Recinto de Guápiles",
+      "ubicacion": "Guápiles, Pococí, Limón"
+    },
+    {
+      "codigo": "41",
+      "nombre": "Recinto de Liberia",
+      "ubicacion": "Liberia, Guanacaste"
+    },
+    {
+      "codigo": "51",
+      "nombre": "Recinto de Limón",
+      "ubicacion": "Limón"
+    },
+    {
+      "codigo": "52",
+      "nombre": "Recinto de Siquirres",
+      "ubicacion": "Siquirres, Limón"
+    },
+    {
+      "codigo": "61",
+      "nombre": "Recinto de Puntarenas",
+      "ubicacion": "Puntarenas"
+    },
+    {
+      "codigo": "71",
+      "nombre": "Recinto de Golfito",
+      "ubicacion": "Golfito, Puntarenas"
+    },
+    {
+      "codigo": "81",
+      "nombre": "Recinto de Alajuela",
+      "ubicacion": "Alajuela"
+    }
+  ],
+  "carreras": [
+    {
+      "codigo": "110103",
+      "nombre": "BACHILLERATO Y LICENCIATURA EN ARTES TEATRALES",
+      "nombreCorto": "Artes Teatrales",
+      "corte2025": 516.99,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110202",
+      "nombre": "BACH. Y LIC. EN HISTORIA DEL ARTE",
+      "nombreCorto": "Historia del Arte",
+      "corte2025": 727.94,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110213",
+      "nombre": "BACH. Y LIC. EN DISEÑO PLASTICO ENF. DISEÑO PICTOR",
+      "nombreCorto": "Diseño Plástico",
+      "corte2025": 651.31,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110214",
+      "nombre": "BACH. Y LIC. EN DISEÑO GRAFICO",
+      "nombreCorto": "Diseño Gráfico",
+      "corte2025": 708.2,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110302",
+      "nombre": "BACH. Y LIC. EN MUSICA CON ENFASIS EN COMPOSICION",
+      "nombreCorto": "Música - Composición",
+      "corte2025": 620.84,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110308",
+      "nombre": "BACH. Y LIC. EN MUSICA CON ENFASIS EN PIANO",
+      "nombreCorto": "Música - Piano",
+      "corte2025": 616.55,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110309",
+      "nombre": "BACH. Y LIC. EN MUSICA CON ENFASIS EN GUITARRA",
+      "nombreCorto": "Música - Guitarra",
+      "corte2025": null,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110310",
+      "nombre": "BACH. Y LIC. EN MUSICA CON ENFASIS EN CANTO",
+      "nombreCorto": "Música - Canto",
+      "corte2025": 594.53,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110311",
+      "nombre": "BACH. Y LIC. EN MUSICA ENF. INSTRUMENTOS DE CUERDA",
+      "nombreCorto": "Música - Instrumentos de Cuerda",
+      "corte2025": null,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110312",
+      "nombre": "BACH. Y LIC. EN MUSICA ENF. INSTR. DE VIENTO O PER",
+      "nombreCorto": "Música - Viento o Percusión",
+      "corte2025": 534.1,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110313",
+      "nombre": "BACH. EN MUSICA CON ENFASIS EN DIRECCION",
+      "nombreCorto": "Música - Dirección",
+      "corte2025": null,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110315",
+      "nombre": "LIC. EN MUSICA CON ENFASIS EN DIRECCION ORQUESTAL",
+      "nombreCorto": "Música - Dirección Orquestal",
+      "corte2025": null,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110322",
+      "nombre": "LIC. EN MUSICA ENF. ENSEÑANZA INSTRUMENTAL O VOCAL",
+      "nombreCorto": "Música - Enseñanza Instrumental o Vocal",
+      "corte2025": null,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "120101",
+      "nombre": "BACH. Y LIC. EN FILOLOGIA ESPAÑOLA",
+      "nombreCorto": "Filología Española",
+      "corte2025": 493.31,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Letras"
+    },
+    {
+      "codigo": "120102",
+      "nombre": "BACH. Y LIC. EN FILOLOGIA CLASICA",
+      "nombreCorto": "Filología Clásica",
+      "corte2025": 633.0,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Letras"
+    },
+    {
+      "codigo": "120201",
+      "nombre": "BACH. Y LIC. EN FILOSOFIA",
+      "nombreCorto": "Filosofía",
+      "corte2025": 541.76,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Letras"
+    },
+    {
+      "codigo": "120303",
+      "nombre": "BACH. EN INGLES",
+      "nombreCorto": "Inglés",
+      "corte2025": 447.82,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Letras"
+    },
+    {
+      "codigo": "120304",
+      "nombre": "BACH. EN FRANCES",
+      "nombreCorto": "Francés",
+      "corte2025": 543.16,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Letras"
+    },
+    {
+      "codigo": "210101",
+      "nombre": "BACH. Y LIC. EN BIOLOGIA",
+      "nombreCorto": "Biología",
+      "corte2025": 647.16,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "210201",
+      "nombre": "BACH. EN FISICA",
+      "nombreCorto": "Física",
+      "corte2025": 562.82,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "210202",
+      "nombre": "BACH. Y LIC. EN METEOROLOGIA",
+      "nombreCorto": "Meteorología",
+      "corte2025": null,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "210301",
+      "nombre": "BACH. Y LIC. EN GEOLOGIA",
+      "nombreCorto": "Geología",
+      "corte2025": 514.57,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "210401",
+      "nombre": "BACH. Y LIC. EN MATEMATICAS",
+      "nombreCorto": "Matemáticas",
+      "corte2025": 550.81,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "210402",
+      "nombre": "BACH. Y LIC. EN CIENCIAS ACTUARIALES",
+      "nombreCorto": "Ciencias Actuariales",
+      "corte2025": 745.54,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "210403",
+      "nombre": "BACH. Y LIC. EN EDUCACION MATEMATICA",
+      "nombreCorto": "Educación Matemática",
+      "corte2025": 766.5,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "210501",
+      "nombre": "BACH. Y LIC. EN QUIMICA",
+      "nombreCorto": "Química",
+      "corte2025": 515.34,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "310101",
+      "nombre": "BACH. Y LIC. EN DERECHO",
+      "nombreCorto": "Derecho",
+      "corte2025": 703.92,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "320208",
+      "nombre": "BACH. EN LA ENS. DEL INGLES",
+      "nombreCorto": "Enseñanza del Inglés",
+      "corte2025": 668.13,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320209",
+      "nombre": "BACH. EN LA ENS. DEL FRANCES",
+      "nombreCorto": "Enseñanza del Francés",
+      "corte2025": 544.5,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320233",
+      "nombre": "BACH. EN LA ENS. DE LA FILOSOFIA",
+      "nombreCorto": "Enseñanza de la Filosofía",
+      "corte2025": 507.19,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320242",
+      "nombre": "BACH. Y LIC. EN EDUCACION PRIMARIA",
+      "nombreCorto": "Educación Primaria",
+      "corte2025": 644.23,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320243",
+      "nombre": "BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMATICA",
+      "nombreCorto": "Enseñanza de la Matemática",
+      "corte2025": 613.76,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320244",
+      "nombre": "BACH. ENS. EST. SOC. Y LIC. ENS EST SOC. Y ED. CIV",
+      "nombreCorto": "Enseñanza Estudios Sociales y Educación Cívica",
+      "corte2025": 597.87,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320246",
+      "nombre": "BACH. Y LIC. ENSEÑANZA DE LA MUSICA",
+      "nombreCorto": "Enseñanza de la Música",
+      "corte2025": 620.82,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320251",
+      "nombre": "BACH. Y LIC. EN LA ENS. DEL CASTELLANO Y LITERATUR",
+      "nombreCorto": "Enseñanza del Castellano y Literatura",
+      "corte2025": 730.53,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320257",
+      "nombre": "BACH. EDUC. PREESCOLAR Y LIC. EDUC. PREESCOLAR ENF",
+      "nombreCorto": "Educación Preescolar",
+      "corte2025": 699.31,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320259",
+      "nombre": "BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES",
+      "nombreCorto": "Enseñanza de Ciencias Naturales",
+      "corte2025": 662.5,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320311",
+      "nombre": "BACH. Y LIC. CS. DE LA EDUCACION ENF. ORIENTACION",
+      "nombreCorto": "Ciencias de la Educación - Orientación",
+      "corte2025": 567.49,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320317",
+      "nombre": "BACH. EN CS. DE LA EDUCACIÓN: EDUCACIÓN ESPECIAL",
+      "nombreCorto": "Educación Especial",
+      "corte2025": 569.59,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320401",
+      "nombre": "BACH.EN BIBLIOTECOLOGIA ENF.CS. DE LA INFORMACION",
+      "nombreCorto": "Bibliotecología - Ciencias de la Información",
+      "corte2025": null,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320402",
+      "nombre": "BACH.EN BIBLIOTECOLOGIA ENF.BIBLIOTECAS EDUCATIVAS",
+      "nombreCorto": "Bibliotecología - Bibliotecas Educativas",
+      "corte2025": 462.02,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320508",
+      "nombre": "BACH. Y LIC. EN CIENCIAS DEL MOVIMIENTO HUMANO",
+      "nombreCorto": "Ciencias del Movimiento Humano",
+      "corte2025": 698.35,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Educación"
+    },
+    {
+      "codigo": "330102",
+      "nombre": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+      "nombreCorto": "Dirección de Empresas",
+      "corte2025": 582.43,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330103",
+      "nombre": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+      "nombreCorto": "Contaduría Pública",
+      "corte2025": 502.25,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330212",
+      "nombre": "DIPL. ADM. ADUANERA. BACH. ADM. ADUANERA COM. EXT",
+      "nombreCorto": "Administración Aduanera y Comercio Exterior",
+      "corte2025": 605.62,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330213",
+      "nombre": "DIPL. Y BACH. EN ADM. PUBLICA Y LIC. EN ADM. PUBLI",
+      "nombreCorto": "Administración Pública",
+      "corte2025": 515.1,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330302",
+      "nombre": "BACH. EN ECONOMIA",
+      "nombreCorto": "Economía",
+      "corte2025": 561.14,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330402",
+      "nombre": "BACH. EN ESTADISTICA",
+      "nombreCorto": "Estadística",
+      "corte2025": 619.21,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "340105",
+      "nombre": "BACH. CS. COMUNIC. COLECT. LIC. EN CS. COMUNIC. EN",
+      "nombreCorto": "Ciencias de la Comunicación Colectiva",
+      "corte2025": 675.3,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "340201",
+      "nombre": "BACH.Y LIC.EN PSICOLOGIA",
+      "nombreCorto": "Psicología",
+      "corte2025": 690.95,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "340301",
+      "nombre": "BACH.Y LIC.EN CIENCIAS POLITICAS",
+      "nombreCorto": "Ciencias Políticas",
+      "corte2025": 483.08,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "340501",
+      "nombre": "BACH.Y LIC.EN TRABAJO SOCIAL",
+      "nombreCorto": "Trabajo Social",
+      "corte2025": 494.41,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "340701",
+      "nombre": "BACH. Y LIC. EN HISTORIA",
+      "nombreCorto": "Historia",
+      "corte2025": 456.88,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "340703",
+      "nombre": "BACHILLERATO Y LICENCIATURA EN ARCHIVISTICA",
+      "nombreCorto": "Archivística",
+      "corte2025": 491.76,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "340801",
+      "nombre": "BACH. Y LIC. EN GEOGRAFIA",
+      "nombreCorto": "Geografía",
+      "corte2025": 511.62,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "340902",
+      "nombre": "BACHILLERATO EN ANTROPOLOGIA",
+      "nombreCorto": "Antropología",
+      "corte2025": 504.32,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "341001",
+      "nombre": "BACH. Y LIC. EN SOCIOLOGIA",
+      "nombreCorto": "Sociología",
+      "corte2025": 483.83,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "420101",
+      "nombre": "LIC.EN INGENIERIA CIVIL",
+      "nombreCorto": "Ingeniería Civil",
+      "corte2025": 647.64,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420201",
+      "nombre": "BACH.Y LIC.EN INGENIERIA ELECTRICA",
+      "nombreCorto": "Ingeniería Eléctrica",
+      "corte2025": 666.39,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420302",
+      "nombre": "LIC.EN INGENIERIA INDUSTRIAL",
+      "nombreCorto": "Ingeniería Industrial",
+      "corte2025": 737.05,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420401",
+      "nombre": "BACH.Y LIC.EN INGENIERIA MECANICA",
+      "nombreCorto": "Ingeniería Mecánica",
+      "corte2025": 692.0,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420501",
+      "nombre": "LIC.EN INGENIERIA QUIMICA",
+      "nombreCorto": "Ingeniería Química",
+      "corte2025": 659.94,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420601",
+      "nombre": "LIC.EN ARQUITECTURA",
+      "nombreCorto": "Arquitectura",
+      "corte2025": 670.68,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420705",
+      "nombre": "BACH. EN COMPUTACION CON VARIOS ENFASIS",
+      "nombreCorto": "Computación",
+      "corte2025": 699.99,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420805",
+      "nombre": "LIC. EN INGENIERIA AGRICOLA Y DE BIOSISTEMAS",
+      "nombreCorto": "Ingeniería Agrícola y de Biosistemas",
+      "corte2025": 500.8,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420904",
+      "nombre": "BACH. Y LIC. EN INGENIERIA TOPOGRAFICA",
+      "nombreCorto": "Ingeniería Topográfica",
+      "corte2025": 504.54,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "510109",
+      "nombre": "LICENCIATURA EN ENFERMERIA",
+      "nombreCorto": "Enfermería",
+      "corte2025": 649.52,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510201",
+      "nombre": "BACH. EN CS. MEDICAS Y LIC. EN MEDICINA Y CIRUGIA",
+      "nombreCorto": "Medicina y Cirugía",
+      "corte2025": 775.9,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510301",
+      "nombre": "LICENCIATURA EN NUTRICION",
+      "nombreCorto": "Nutrición",
+      "corte2025": 759.56,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510407",
+      "nombre": "BACH. Y LIC. EN TERAPIA FISICA",
+      "nombreCorto": "Terapia Física",
+      "corte2025": 658.21,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510408",
+      "nombre": "BACH. Y LIC. EN SALUD AMBIENTAL",
+      "nombreCorto": "Salud Ambiental",
+      "corte2025": 615.18,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510418",
+      "nombre": "LIC. EN AUDIOLOGIA",
+      "nombreCorto": "Audiología",
+      "corte2025": 641.48,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510419",
+      "nombre": "BACH. Y LIC. EN ORTOPROTESIS Y ORTOPEDIA",
+      "nombreCorto": "Ortoprótesis y Ortopedia",
+      "corte2025": 700.91,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510421",
+      "nombre": "BACH. Y LIC. EN IMAG. DIAGNÓSTICA Y TERAPÉUTICA",
+      "nombreCorto": "Imagenología Diagnóstica y Terapéutica",
+      "corte2025": 731.46,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "510502",
+      "nombre": "BACH. Y LIC. EN PROMOCIÓN DE LA SALUD",
+      "nombreCorto": "Promoción de la Salud",
+      "corte2025": 568.12,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "520101",
+      "nombre": "LIC. EN ODONTOLOGIA",
+      "nombreCorto": "Odontología",
+      "corte2025": 691.29,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "530101",
+      "nombre": "LIC. EN MICROBIOLOGIA Y QUIMICA CLINICA",
+      "nombreCorto": "Microbiología y Química Clínica",
+      "corte2025": 761.15,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "530102",
+      "nombre": "DIP. EN ASISTENTE DE LABORATORIO",
+      "nombreCorto": "Asistente de Laboratorio",
+      "corte2025": 674.63,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "540101",
+      "nombre": "LIC. EN FARMACIA",
+      "nombreCorto": "Farmacia",
+      "corte2025": 697.59,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Salud"
+    },
+    {
+      "codigo": "910102",
+      "nombre": "BACH. Y LIC. EN AGRONOMIA",
+      "nombreCorto": "Agronomía",
+      "corte2025": 525.65,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "910203",
+      "nombre": "BACH. Y LIC. EN INGENIERIA AGRONOMICA EN ZOOTECNIA",
+      "nombreCorto": "Ingeniería Agronómica en Zootecnia",
+      "corte2025": 513.27,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "910308",
+      "nombre": "BACHILLERATO EN ECONOMIA AGRICOLA Y AGRONEGOCIOS",
+      "nombreCorto": "Economía Agrícola y Agronegocios",
+      "corte2025": 504.22,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "910402",
+      "nombre": "LICENCIATURA EN INGENIERIA DE ALIMENTOS",
+      "nombreCorto": "Ingeniería de Alimentos",
+      "corte2025": 689.92,
+      "sede": "Ciudad Universitaria Rodrigo Facio",
+      "codigoSede": "11",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "110213",
+      "nombre": "BACH. Y LIC. EN DISEÑO PLASTICO ENF. DISEÑO PICTOR",
+      "nombreCorto": "Diseño Plástico",
+      "corte2025": 580.84,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "110214",
+      "nombre": "BACH. Y LIC. EN DISEÑO GRAFICO",
+      "nombreCorto": "Diseño Gráfico",
+      "corte2025": 648.13,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "310101",
+      "nombre": "BACH. Y LIC. EN DERECHO",
+      "nombreCorto": "Derecho",
+      "corte2025": 707.84,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "320243",
+      "nombre": "BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMATICA",
+      "nombreCorto": "Enseñanza de la Matemática",
+      "corte2025": 597.32,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320246",
+      "nombre": "BACH. Y LIC. ENSEÑANZA DE LA MUSICA",
+      "nombreCorto": "Enseñanza de la Música",
+      "corte2025": 462.0,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "330102",
+      "nombre": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+      "nombreCorto": "Dirección de Empresas",
+      "corte2025": 664.99,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "340201",
+      "nombre": "BACH.Y LIC.EN PSICOLOGIA",
+      "nombreCorto": "Psicología",
+      "corte2025": 643.96,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "420302",
+      "nombre": "LIC.EN INGENIERIA INDUSTRIAL",
+      "nombreCorto": "Ingeniería Industrial",
+      "corte2025": 673.38,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 714.04,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600110",
+      "nombre": "BACH. EN LA ENS. DEL CASTELLANO Y LITERATURA",
+      "nombreCorto": "Enseñanza del Castellano y Literatura",
+      "corte2025": 613.33,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600113",
+      "nombre": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+      "nombreCorto": "Enseñanza del Inglés",
+      "corte2025": 641.72,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600119",
+      "nombre": "BACH. Y LIC. EN TRABAJO SOCIAL",
+      "nombreCorto": "Trabajo Social",
+      "corte2025": 599.06,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "600123",
+      "nombre": "BACH. EN GESTION DE LOS RECURSOS NATURALES",
+      "nombreCorto": "Gestión de los Recursos Naturales",
+      "corte2025": 619.18,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "600125",
+      "nombre": "BACH.EN LA ENS. ESTUDIOS SOCIALES Y LA EDUC. CIVIC",
+      "nombreCorto": "Enseñanza Estudios Sociales y Educación Cívica",
+      "corte2025": 603.35,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600133",
+      "nombre": "BACHILLERATO EN EDUCACION PRIMARIA",
+      "nombreCorto": "Educación Primaria",
+      "corte2025": 606.15,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600134",
+      "nombre": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+      "nombreCorto": "Educación Primaria en Inglés",
+      "corte2025": 649.67,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600135",
+      "nombre": "BACHILLERATO EN EDUCACION INICIAL EN INGLES",
+      "nombreCorto": "Educación Inicial en Inglés",
+      "corte2025": 506.29,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600136",
+      "nombre": "BACHILLERATO Y LICENCIATURA EN EDUCACION INICIAL",
+      "nombreCorto": "Educación Inicial",
+      "corte2025": 634.75,
+      "sede": "Recinto de San Ramón",
+      "codigoSede": "21",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320259",
+      "nombre": "BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES",
+      "nombreCorto": "Enseñanza de Ciencias Naturales",
+      "corte2025": 474.51,
+      "sede": "Recinto de Grecia",
+      "codigoSede": "22",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 685.34,
+      "sede": "Recinto de Grecia",
+      "codigoSede": "22",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600119",
+      "nombre": "BACH. Y LIC. EN TRABAJO SOCIAL",
+      "nombreCorto": "Trabajo Social",
+      "corte2025": 573.71,
+      "sede": "Recinto de Grecia",
+      "codigoSede": "22",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "600126",
+      "nombre": "BACH. Y LIC. EN LABORATORISTA QUIMICO",
+      "nombreCorto": "Laboratorista Químico",
+      "corte2025": 633.38,
+      "sede": "Recinto de Grecia",
+      "codigoSede": "22",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "600127",
+      "nombre": "BACH. EN GESTIÓN INTEGRAL DEL RECURSO HÍDRICO",
+      "nombreCorto": "Gestión Integral del Recurso Hídrico",
+      "corte2025": null,
+      "sede": "Recinto de Grecia",
+      "codigoSede": "22",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "600130",
+      "nombre": "BACHILLERATO EN MODELACIÓN MATEMÁTICA",
+      "nombreCorto": "Modelación Matemática",
+      "corte2025": 647.29,
+      "sede": "Recinto de Grecia",
+      "codigoSede": "22",
+      "area": "Ciencias Básicas"
+    },
+    {
+      "codigo": "600307",
+      "nombre": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+      "nombreCorto": "Turismo Ecológico y Gestión Ecoturística",
+      "corte2025": 512.21,
+      "sede": "Recinto de Grecia",
+      "codigoSede": "22",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "110214",
+      "nombre": "BACH. Y LIC. EN DISEÑO GRAFICO",
+      "nombreCorto": "Diseño Gráfico",
+      "corte2025": 597.57,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "320246",
+      "nombre": "BACH. Y LIC. ENSEÑANZA DE LA MUSICA",
+      "nombreCorto": "Enseñanza de la Música",
+      "corte2025": 568.56,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320508",
+      "nombre": "BACH. Y LIC. EN CIENCIAS DEL MOVIMIENTO HUMANO",
+      "nombreCorto": "Ciencias del Movimiento Humano",
+      "corte2025": 548.36,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Educación"
+    },
+    {
+      "codigo": "330103",
+      "nombre": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+      "nombreCorto": "Contaduría Pública",
+      "corte2025": 640.22,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 637.19,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600113",
+      "nombre": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+      "nombreCorto": "Enseñanza del Inglés",
+      "corte2025": 638.35,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600209",
+      "nombre": "LIC. EN INGENIERIA EN DESARROLLO SOSTENIBLE",
+      "nombreCorto": "Ingeniería en Desarrollo Sostenible",
+      "corte2025": 521.76,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "910102",
+      "nombre": "BACH. Y LIC. EN AGRONOMIA",
+      "nombreCorto": "Agronomía",
+      "corte2025": 590.4,
+      "sede": "Recinto de Turrialba",
+      "codigoSede": "31",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "320243",
+      "nombre": "BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMATICA",
+      "nombreCorto": "Enseñanza de la Matemática",
+      "corte2025": 457.13,
+      "sede": "Recinto de Paraíso",
+      "codigoSede": "32",
+      "area": "Educación"
+    },
+    {
+      "codigo": "330102",
+      "nombre": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+      "nombreCorto": "Dirección de Empresas",
+      "corte2025": 578.58,
+      "sede": "Recinto de Paraíso",
+      "codigoSede": "32",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 627.31,
+      "sede": "Recinto de Paraíso",
+      "codigoSede": "32",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600113",
+      "nombre": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+      "nombreCorto": "Enseñanza del Inglés",
+      "corte2025": 592.67,
+      "sede": "Recinto de Paraíso",
+      "codigoSede": "32",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600307",
+      "nombre": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+      "nombreCorto": "Turismo Ecológico y Gestión Ecoturística",
+      "corte2025": 642.8,
+      "sede": "Recinto de Paraíso",
+      "codigoSede": "32",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "330103",
+      "nombre": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+      "nombreCorto": "Contaduría Pública",
+      "corte2025": 601.26,
+      "sede": "Recinto de Guápiles",
+      "codigoSede": "33",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 636.8,
+      "sede": "Recinto de Guápiles",
+      "codigoSede": "33",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600134",
+      "nombre": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+      "nombreCorto": "Educación Primaria en Inglés",
+      "corte2025": 512.67,
+      "sede": "Recinto de Guápiles",
+      "codigoSede": "33",
+      "area": "Educación"
+    },
+    {
+      "codigo": "910308",
+      "nombre": "BACHILLERATO EN ECONOMIA AGRICOLA Y AGRONEGOCIOS",
+      "nombreCorto": "Economía Agrícola y Agronegocios",
+      "corte2025": 484.32,
+      "sede": "Recinto de Guápiles",
+      "codigoSede": "33",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "120303",
+      "nombre": "BACH. EN INGLES",
+      "nombreCorto": "Inglés",
+      "corte2025": 540.64,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Letras"
+    },
+    {
+      "codigo": "310101",
+      "nombre": "BACH. Y LIC. EN DERECHO",
+      "nombreCorto": "Derecho",
+      "corte2025": 657.14,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "330102",
+      "nombre": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+      "nombreCorto": "Dirección de Empresas",
+      "corte2025": 584.13,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330212",
+      "nombre": "DIPL. ADM. ADUANERA. BACH. ADM. ADUANERA COM. EXT",
+      "nombreCorto": "Administración Aduanera y Comercio Exterior",
+      "corte2025": 504.38,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "340201",
+      "nombre": "BACH.Y LIC.EN PSICOLOGIA",
+      "nombreCorto": "Psicología",
+      "corte2025": 599.71,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ciencias Sociales"
+    },
+    {
+      "codigo": "420101",
+      "nombre": "LIC.EN INGENIERIA CIVIL",
+      "nombreCorto": "Ingeniería Civil",
+      "corte2025": 717.17,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420201",
+      "nombre": "BACH.Y LIC.EN INGENIERIA ELECTRICA",
+      "nombreCorto": "Ingeniería Eléctrica",
+      "corte2025": 489.37,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "510408",
+      "nombre": "BACH. Y LIC. EN SALUD AMBIENTAL",
+      "nombreCorto": "Salud Ambiental",
+      "corte2025": 435.61,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Salud"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 526.8,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600133",
+      "nombre": "BACHILLERATO EN EDUCACION PRIMARIA",
+      "nombreCorto": "Educación Primaria",
+      "corte2025": 610.77,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600134",
+      "nombre": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+      "nombreCorto": "Educación Primaria en Inglés",
+      "corte2025": 510.32,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600307",
+      "nombre": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+      "nombreCorto": "Turismo Ecológico y Gestión Ecoturística",
+      "corte2025": 479.33,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "600308",
+      "nombre": "BACH Y LIC EN EDUC. DE PRIMERA INFAN. ÉNF. INGLES",
+      "nombreCorto": "Educación de Primera Infancia - Énfasis Inglés",
+      "corte2025": 553.51,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Educación"
+    },
+    {
+      "codigo": "910102",
+      "nombre": "BACH. Y LIC. EN AGRONOMIA",
+      "nombreCorto": "Agronomía",
+      "corte2025": 474.63,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "910402",
+      "nombre": "LICENCIATURA EN INGENIERIA DE ALIMENTOS",
+      "nombreCorto": "Ingeniería de Alimentos",
+      "corte2025": 659.16,
+      "sede": "Recinto de Liberia",
+      "codigoSede": "41",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "120303",
+      "nombre": "BACH. EN INGLES",
+      "nombreCorto": "Inglés",
+      "corte2025": 557.94,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Letras"
+    },
+    {
+      "codigo": "330102",
+      "nombre": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+      "nombreCorto": "Dirección de Empresas",
+      "corte2025": 546.96,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330103",
+      "nombre": "BACH. Y LIC. EN CONTADURIA PUBLICA",
+      "nombreCorto": "Contaduría Pública",
+      "corte2025": 512.13,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "330212",
+      "nombre": "DIPL. ADM. ADUANERA. BACH. ADM. ADUANERA COM. EXT",
+      "nombreCorto": "Administración Aduanera y Comercio Exterior",
+      "corte2025": 565.62,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "420501",
+      "nombre": "LIC.EN INGENIERIA QUIMICA",
+      "nombreCorto": "Ingeniería Química",
+      "corte2025": 591.4,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 512.86,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600004",
+      "nombre": "LIC.ING.MARÍTIMAÉNF.NAÚTICAYTRANSP.MAR.YENMÁQ.MAR",
+      "nombreCorto": "Ingeniería Marítima - Náutica y Transporte Marítimo",
+      "corte2025": null,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "600113",
+      "nombre": "BACH. Y LIC. EN LA ENS. DEL INGLES",
+      "nombreCorto": "Enseñanza del Inglés",
+      "corte2025": 527.84,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600135",
+      "nombre": "BACHILLERATO EN EDUCACION INICIAL EN INGLES",
+      "nombreCorto": "Educación Inicial en Inglés",
+      "corte2025": 479.92,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600307",
+      "nombre": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+      "nombreCorto": "Turismo Ecológico y Gestión Ecoturística",
+      "corte2025": 513.73,
+      "sede": "Recinto de Limón",
+      "codigoSede": "51",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 580.03,
+      "sede": "Recinto de Siquirres",
+      "codigoSede": "52",
+      "area": "Informática"
+    },
+    {
+      "codigo": "320208",
+      "nombre": "BACH. EN LA ENS. DEL INGLES",
+      "nombreCorto": "Enseñanza del Inglés",
+      "corte2025": 528.35,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Educación"
+    },
+    {
+      "codigo": "330102",
+      "nombre": "BACH. Y LIC. EN DIRECCION DE EMPRESAS",
+      "nombreCorto": "Dirección de Empresas",
+      "corte2025": 517.18,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Ciencias Económicas"
+    },
+    {
+      "codigo": "420201",
+      "nombre": "BACH.Y LIC.EN INGENIERIA ELECTRICA",
+      "nombreCorto": "Ingeniería Eléctrica",
+      "corte2025": 532.77,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 546.62,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600502",
+      "nombre": "BACH. Y LIC. EN INFORMATICA Y TECNOLOGIA MULTIMEDI",
+      "nombreCorto": "Informática y Tecnología Multimedia",
+      "corte2025": 405.59,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600503",
+      "nombre": "BACH. Y LIC. EN INGLES CON FORMACION EN GESTION EM",
+      "nombreCorto": "Inglés con Formación en Gestión Empresarial",
+      "corte2025": 520.17,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Letras"
+    },
+    {
+      "codigo": "600504",
+      "nombre": "LIC. EN INGENIERIA ELECTROMECANICA INDUSTRIAL",
+      "nombreCorto": "Ingeniería Electromecánica Industrial",
+      "corte2025": 526.62,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "600505",
+      "nombre": "BACH. EN GESTION CULTURAL",
+      "nombreCorto": "Gestión Cultural",
+      "corte2025": 658.22,
+      "sede": "Recinto de Puntarenas",
+      "codigoSede": "61",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "210403",
+      "nombre": "BACH. Y LIC. EN EDUCACION MATEMATICA",
+      "nombreCorto": "Educación Matemática",
+      "corte2025": null,
+      "sede": "Recinto de Golfito",
+      "codigoSede": "71",
+      "area": "Educación"
+    },
+    {
+      "codigo": "320259",
+      "nombre": "BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES",
+      "nombreCorto": "Enseñanza de Ciencias Naturales",
+      "corte2025": 570.43,
+      "sede": "Recinto de Golfito",
+      "codigoSede": "71",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600002",
+      "nombre": "BACHILLERATO EN INFORMATICA EMPRESARIAL",
+      "nombreCorto": "Informática Empresarial",
+      "corte2025": 586.53,
+      "sede": "Recinto de Golfito",
+      "codigoSede": "71",
+      "area": "Informática"
+    },
+    {
+      "codigo": "600134",
+      "nombre": "BACHILLERATO EN EDUCACION PRIMARIA EN INGLES",
+      "nombreCorto": "Educación Primaria en Inglés",
+      "corte2025": 514.84,
+      "sede": "Recinto de Golfito",
+      "codigoSede": "71",
+      "area": "Educación"
+    },
+    {
+      "codigo": "600307",
+      "nombre": "BACH. EN TURISMO ECOLOGICO Y LIC. GESTION ECOTURIS",
+      "nombreCorto": "Turismo Ecológico y Gestión Ecoturística",
+      "corte2025": null,
+      "sede": "Recinto de Golfito",
+      "codigoSede": "71",
+      "area": "Ciencias Agroalimentarias"
+    },
+    {
+      "codigo": "110214",
+      "nombre": "BACH. Y LIC. EN DISEÑO GRAFICO",
+      "nombreCorto": "Diseño Gráfico",
+      "corte2025": 517.76,
+      "sede": "Recinto de Alajuela",
+      "codigoSede": "81",
+      "area": "Artes y Letras"
+    },
+    {
+      "codigo": "420302",
+      "nombre": "LIC.EN INGENIERIA INDUSTRIAL",
+      "nombreCorto": "Ingeniería Industrial",
+      "corte2025": 626.2,
+      "sede": "Recinto de Alajuela",
+      "codigoSede": "81",
+      "area": "Ingeniería"
+    },
+    {
+      "codigo": "420404",
+      "nombre": "LIC. ING. MECANICA ENF. PROTECC. CONTRA INCENDIOS",
+      "nombreCorto": "Ingeniería Mecánica - Protección Contra Incendios",
+      "corte2025": 523.39,
+      "sede": "Recinto de Alajuela",
+      "codigoSede": "81",
+      "area": "Ingeniería"
+    }
+  ]
+}
