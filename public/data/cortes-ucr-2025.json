@@ -6,7 +6,7 @@
   "notaMinima": 200,
   "fuente": "Oficina de Registro e Información - UCR",
   "urlOficial": "https://ori.ucr.ac.cr/",
-  "pdfOficial": "https://ori.ucr.ac.cr/sites/default/files/archivos/2025/_Cortes25.pdf",
+  "pdfOficial": "/data/Cortes-carreras-UCR-2025-primer-ingreso-.pdf",
   "calculoPromedio": {
     "secundaria": "50%",
     "paa": "50%",

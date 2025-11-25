@@ -34,7 +34,7 @@ const Home = () => {
                     </div>
 
                     <div className="text-sm text-gray-500 max-w-lg mx-auto bg-gray-50 p-3 rounded-lg border border-gray-100">
-                        <p>La información utilizada en esta herramienta es basada en los cortes del proceso de admisión obtenida en el <a href="https://consultasori.ucr.ac.cr/frmCortesHistoricosUniversitario.aspx" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">enlace oficial (ORI)</a>.</p>
+                        <p>La información utilizada en esta herramienta es basada en el <a href="/data/Cortes-carreras-UCR-2025-primer-ingreso-.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">documento oficial de cortes 2025 (PDF)</a>.</p>
                     </div>
 
                     <p className="text-lg text-gray-600 max-w-lg mx-auto leading-relaxed pt-2">
