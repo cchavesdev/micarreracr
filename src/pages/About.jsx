@@ -46,13 +46,13 @@ const About = () => {
                             Oficina de Registro e Información (UCR)
                         </a>
                         <a
-                            href="https://ori.ucr.ac.cr/sites/default/files/archivos-2024/Cortes_Historicos_2024.pdf"
+                            href="/data/Cortes-carreras-UCR-2025-primer-ingreso-.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-2 text-red-600 hover:underline"
                         >
                             <ExternalLink size={16} />
-                            Otras Referencias cortes historicos
+                            Documento Oficial de Cortes 2025 (PDF)
                         </a>
                     </div>
                 </Card>
@@ -62,7 +62,7 @@ const About = () => {
                         Desarrollado con fines educativos y de orientación vocacional.
                     </p>
                     <a
-                        href="https://github.com"
+                        href="https://github.com/cchavesdev/micarreracr"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-2 text-gray-700 hover:text-black transition-colors"

@@ -40,7 +40,10 @@ const Home = () => {
                     <p className="text-lg text-gray-600 max-w-lg mx-auto leading-relaxed pt-2">
                         Consulta las carreras disponibles con tu promedio de admisión.
                         <br />
-                        <span className="font-medium text-blue-600">¡Muchos éxitos en este proceso!</span>
+                        <span className="text-sm font-semibold text-gray-500 uppercase tracking-wide block mt-1">
+                            Ingreso a Carrera Ordinaria - Primer Ingreso
+                        </span>
+                        <span className="font-medium text-blue-600 block mt-2">¡Muchos éxitos en este proceso!</span>
                     </p>
                 </div>
 
