@@ -12,7 +12,7 @@ const Layout = ({ children }) => {
                 {children}
             </main>
 
-            <div className="fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-gray-200 shadow-[0_-4px_6px_-1px_rgba(0,0,0,0.1)]">
+            <div className="fixed bottom-0 left-0 right-0 z-40 glass">
                 <AdBanner className="" slotId="bottom-banner" />
                 <footer className="py-4">
                     <div className="max-w-7xl mx-auto px-4 text-center text-sm text-gray-500 flex flex-col sm:flex-row justify-center items-center gap-4">
