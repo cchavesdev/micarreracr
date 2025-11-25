@@ -19,17 +19,20 @@ const About = () => {
                     <h3 className="text-xl font-bold text-gray-900 mb-4">¿Cómo funciona?</h3>
                     <div className="space-y-4 text-gray-600">
                         <p>
-                            Esta aplicación utiliza los datos oficiales de cortes de admisión de la
-                            Universidad de Costa Rica (UCR) y la información de admisión de la
+                            Esta aplicación utiliza como fuente el documento PDF oficial publicado por la Universidad de Costa Rica (UCR).
+                        </p>
+                        <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-4">
+                            <p className="text-sm text-yellow-700">
+                                <strong>Importante:</strong> Esta herramienta debe utilizarse únicamente como referencia.
+                                Los cortes de admisión varían año con año y dependen de múltiples factores.
+                            </p>
+                        </div>
+                        <p>
+                            El propósito de <strong>Mi Carrera CR</strong> es facilitar el acceso y la visualización de estos datos históricos para que puedas tener una idea general.
                         </p>
                         <p>
-                            Al ingresar tu promedio de admisión, el sistema filtra automáticamente:
+                            Te instamos a tomar decisiones informadas consultando siempre las fuentes oficiales y, de ser posible, con el apoyo de orientadores vocacionales.
                         </p>
-                        <ul className="list-disc pl-5 space-y-2">
-                            <li>
-                                <strong>Para UCR:</strong> Carreras donde tu nota es igual o superior al corte histórico.
-                            </li>
-                        </ul>
                     </div>
                 </Card>
 
@@ -37,7 +40,7 @@ const About = () => {
                     <h3 className="text-xl font-bold text-gray-900 mb-4">Fuentes de Información</h3>
                     <div className="space-y-4">
                         <a
-                            href="https://consultasori.ucr.ac.cr/frmCortesHistoricosUniversitario.aspx"
+                            href="https://ori.ucr.ac.cr/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-2 text-blue-600 hover:underline"
@@ -61,15 +64,7 @@ const About = () => {
                     <p className="text-gray-500 mb-4">
                         Desarrollado con fines educativos y de orientación vocacional.
                     </p>
-                    <a
-                        href="https://github.com/cchavesdev/micarreracr"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2 text-gray-700 hover:text-black transition-colors"
-                    >
-                        <Github size={20} />
-                        <span>Ver código fuente</span>
-                    </a>
+
                 </div>
             </div>
         </Layout>
