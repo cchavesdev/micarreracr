@@ -15,7 +15,7 @@ export const filterCarrerasUCR = (carreras, filters) => {
             const term = filters.search.toLowerCase();
             return (
                 carrera.nombre.toLowerCase().includes(term) ||
-                carrera.codigo.includes(term)
+                String(carrera.codigo).toLowerCase().includes(term)
             );
         }
 

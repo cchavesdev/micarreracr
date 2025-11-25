@@ -32,10 +32,12 @@ const Home = () => {
                     <div className="inline-flex items-center justify-center p-3 bg-blue-100 rounded-full text-blue-600 mb-2">
                         <GraduationCap size={40} />
                     </div>
-                    <h1 className="text-3xl sm:text-4xl font-bold text-gray-900">
-                        ¡Hola! Descubre tu futuro
-                    </h1>
-                    <p className="text-lg text-gray-600 max-w-lg mx-auto leading-relaxed">
+
+                    <div className="text-sm text-gray-500 max-w-lg mx-auto bg-gray-50 p-3 rounded-lg border border-gray-100">
+                        <p>La información utilizada en esta herramienta es basada en los cortes del proceso de admisión obtenida en el <a href="https://consultasori.ucr.ac.cr/frmCortesHistoricosUniversitario.aspx" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">enlace oficial (ORI)</a>.</p>
+                    </div>
+
+                    <p className="text-lg text-gray-600 max-w-lg mx-auto leading-relaxed pt-2">
                         Consulta las carreras disponibles con tu promedio de admisión.
                         <br />
                         <span className="font-medium text-blue-600">¡Muchos éxitos en este proceso!</span>
@@ -63,17 +65,7 @@ const Home = () => {
                     </div>
                 </Card>
 
-                <div className="text-center text-sm text-gray-500">
-                    <p>La informació́n utilizada en esta herramienta es basada en los cortes del proceso de admisión obtenida en el siguiente enlace.</p>
-                    <a
-                        href="https://consultasori.ucr.ac.cr/frmCortesHistoricosUniversitario.aspx"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-blue-600 hover:underline mt-1 inline-block"
-                    >
-                        Ver fuente oficial (ORI)
-                    </a>
-                </div>
+
             </div>
         </Layout>
     );

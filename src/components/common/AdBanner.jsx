@@ -4,6 +4,9 @@ const AdBanner = ({ slotId, format = 'auto', className = '' }) => {
     const client = import.meta.env.VITE_ADSENSE_CLIENT_ID;
     const isDev = !client || client.includes('XXXXXXXX');
 
+    // Temporarily hide ads as requested
+    return null;
+
     useEffect(() => {
         if (!isDev) {
             try {
